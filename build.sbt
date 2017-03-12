@@ -20,5 +20,7 @@ libraryDependencies ++= Seq(
   "com.lihaoyi"  %%% "scalatags"   % "0.6.3",
   "com.lihaoyi"  %%% "utest"       % "0.4.5" % "test",
   "io.suzaku"    %%% "diode-core"  % "1.1.1",
-  "org.scalaz" %%%  "scalaz-core" % "7.2.9"
+  "org.scalaz" %%%  "scalaz-core" % "7.2.9",
+  "com.github.japgolly.scalacss" %%% "core" % "0.5.1",
+  "com.github.japgolly.scalacss" %%% "ext-scalatags" % "0.5.1"
 )
